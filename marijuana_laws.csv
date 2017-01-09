@@ -1,52 +1,52 @@
-Locations,z
-AL,1
-AK,2
-AZ,1
-AR,1
-CA,4
-CO,4
-CT,1
-DE,1
-DC,4
-FL,1
-GA,1
-HI,4
-ID,1
-IL,1
-IN,1
-IA,1
-KS,1
-KY,1
-LA,1
-ME,5
-MD,1
-MA,1
-MI,1
-MN,2
-MS,2
-MO,1
-MT,4
-NE,2
-NV,4
-NH,1
-NJ,1
-NM,1
-NY,2
-NC,2
-ND,1
-OH,2
-OK,1
-OR,2
-PA,1
-RI,1
-SC,1
-SD,1
-TN,1
-TX,1
-UT,1
-VT,4
-VA,1
-WA,4
-WV,1
-WI,1
-WY,1
+code,state,2004
+AL,Alabama,1
+AK,Alaska,2
+AZ,Arizona,1
+AR,Arkansas,1
+CA,California,4
+CO,Colorado,4
+CT,Connecticut,1
+DE,Delaware,1
+DC,District of Columbia,4
+FL,Florida,1
+GA,Georgia,1
+HI,Hawaii,4
+ID,Idaho,1
+IL,Illinois,1
+IN,Indiana,1
+IA,Iowa,1
+KS,Kansas,1
+KY,Kentucky,1
+LA,Louisiana,1
+ME,Maine,5
+MD,Maryland,1
+MA,Massachusetts,1
+MI,Michigan,1
+MN,Minnesota,2
+MS,Mississippi,2
+MO,Missouri,1
+MT,Montana,4
+NE,Nebraska,2
+NV,Nevada,4
+NH,New Hampshire,1
+NJ,New Jersey,1
+NM,New Mexico,1
+NY,New York,2
+NC,North Carolina,2
+ND,North Dakota,1
+OH,Ohio,2
+OK,Oklahoma,1
+OR,Oregon,2
+PA,Pennsylvania,1
+RI,Rhode Island,1
+SC,South Carolina,1
+SD,South Dakota,1
+TN,Tennessee,1
+TX,Texas,1
+UT,Utah,1
+VT,Vermont,4
+VA,Virginia,1
+WA,Washington,4
+WV,West Virginia,1
+WI,Wisconsin,1
+WY,Wyoming,1
