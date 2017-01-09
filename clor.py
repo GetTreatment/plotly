@@ -3,7 +3,7 @@ tls.set_credentials_file(username='michaeldw', api_key='pp7rbsykovyxZeeZAVeZ')
 import plotly.plotly as py
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv')
+df = pd.read_csv('https://github.com/GetTreatment/plotly/blob/master/marijuana_laws.csv')
 
 for col in df.columns:
     df[col] = df[col].astype(str)
@@ -24,11 +24,11 @@ data = [ dict(
                 width = 2
             ) ),
         colorbar = dict(
-            title = "Millions USD")
+            title = "Marijuana Law Strictness")
         ) ]
 
 layout = dict(
-        title = '2011 US Agriculture Exports by State<br>(Hover for breakdown)',
+        title = '2014 - 2015 Marijuana Laws by state',
         geo = dict(
             scope='usa',
             projection=dict( type='albers usa' ),
@@ -37,4 +37,4 @@ layout = dict(
              )
     
 fig = dict( data=data, layout=layout )
-py.iplot( fig, filename='d3-cloropleth-map' )
+py.iplot( fig, filename='chloropleth' )
